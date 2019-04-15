@@ -9,7 +9,7 @@ about:
   header: About
   content:
       left: "I am currently completing my Computer Science master at the University of Bologna. I am particularly interested in the development of decentralized applications using peer to peer and blockchain technologies."
-      right: "Also interested in machine learning and software development. I have experience developing Android and crossplatform mobile apps freelance."
+      right: "Also interested in machine learning and software development. I have experience developing Android and crossplatform mobile apps as a freelance."
       bottom: " "
   interests:
     header: Recent interests
@@ -56,10 +56,10 @@ google_analytics_tracker_id: "UA-138244755-1"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 101010 #80B3FF
+  primary: 202020 #80B3FF
   primary-rgb: "255,0,0" #"128,179,255"
   secondary-light: 58635a #FD6E8A
-  secondary: 38433a #FD6E8A
+  secondary: 0c0c0c #FD6E8A
   secondary-dark: 18231a #A2122F
   blog-text: 222
   link: 1a77bd
