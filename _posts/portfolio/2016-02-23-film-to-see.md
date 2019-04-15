@@ -30,5 +30,7 @@ stack:
 ### Project Description
 
 Android app created together with Dan Rusnac for a mobile programming university exam.
+
 The purpose of the application is to help groups of friends choose films to watch together.
+
 The app allows the creation of user groups within which you can add, vote, comment on films.

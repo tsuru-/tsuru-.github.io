@@ -41,6 +41,7 @@ stack:
 For my bachelor thesis I developed an application to track the flow of bitcoin transactions.
 
 I dealt in particular with the backend part of the application: the data scraping from the blockchain to load the data about bitcoin transactions in a graph database.
+
 The final result was a visual analysis tool focused on forensics transaction analysis.
 
 ### References

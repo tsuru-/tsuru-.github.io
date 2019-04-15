@@ -29,7 +29,9 @@ stack:
 
 ### Project Description
 A hashtag recommender system based on k-means, mini-batch fast k-means and a deep learning feature extraction phase.
+
 The tool actually is a command line interface that takes as input an image and returns a list of hashtags recomandations.
+
 The model built was trained on real data taken from Instagram and for the clustering phase Apache Spark is used for performance.
 
 The project is currently being rewritten for an eventual public release as a service.
