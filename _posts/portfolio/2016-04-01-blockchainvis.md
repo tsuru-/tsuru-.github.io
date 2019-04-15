@@ -3,7 +3,7 @@ layout: default
 title: Blockchainvis
 category: portfolio
 modal-id: 6
-img: bcvis.png
+img: bvis.jpg
 alt: Screenshot of BlockchainVis
 client: 
 application: BlockchainVis
