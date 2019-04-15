@@ -12,7 +12,7 @@ about:
       right: "Also interested in machine learning and software development. I have experience developing Android and crossplatform mobile apps freelance."
       bottom: " "
   interests:
-    header: Interests as of Late
+    header: Recent interests
     content:
       left:
         header: Now
@@ -93,9 +93,9 @@ portfolio:
 footer:
   location-header: Location
   location: Bologna, PG
-  copyright: 
-  social: My Other Whereabouts
-  new-thoughts: New Thoughts
+  copyright: Francesco Moca
+  social: ""
+  new-thoughts: Blog posts
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc. search them in main.css)
 social:
@@ -108,7 +108,7 @@ social:
 
 
 # Credits content
-credits: "<a href='https://github.com/bill-c-martin/bill-c-martin.github.io'>Based on Bill Martin's portfolio.</a>"
+credits: "<a href='https://github.com/bill-c-martin/bill-c-martin.github.io'>Jekyll base template taken from Bill Martin.</a>"
 
 # Build settings
 permalink: pretty

@@ -5,7 +5,7 @@ category: portfolio
 modal-id: 6
 img: bcvis.png
 alt: Screenshot of BlockchainVis
-client: Beazley
+client: 
 application: BlockchainVis
 project-date: February 2016 - April 2016
 languages:
