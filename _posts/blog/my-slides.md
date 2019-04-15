@@ -1,0 +1,9 @@
+---
+layout: blog_post
+title: Slides I prepared for University Exams.
+category: blog
+---
+For many exams I had to prepare slides to present a topic concerning a particular aspect of the course. Maybe these reports (in English) I wrote can be interesting for someone:
+[Information Diffusion in Online Social Networks](https://docs.google.com/presentation/d/1fYZyWVFhVZSivq6UZz0wSKH4JvsOhOqYw7OczCPP9PQ/edit?usp=sharing) for Data Mining exam.
+[Pony](https://docs.google.com/presentation/d/1tVxvadWEhFBBeIu-kAlnfKKeGcUfZpB4aM8tT7wz5J0/edit?usp=sharing) for Emerging Programming Paradigms exam.
+[Ethereum and ÐApps scaling](https://docs.google.com/presentation/d/1-uGFfivmRUoPol8JuuO4ppK4g7Xu0MsdxNnJRAW8ERw/edit?usp=sharing) for Peer To Peer Systems exam.
