@@ -188,6 +188,9 @@ section.success {
     section {
         padding: 75px 0;
     }
+    section#about div#left p{
+        text-align:left !important;
+    }
 
     section.first {
         padding-top: 75px;

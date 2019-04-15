@@ -57,10 +57,10 @@ google_analytics_tracker_id: UA-138244755-1
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 202020 #80B3FF
-  primary-rgb: "255,0,0" #"128,179,255"
-  secondary-light: 58635a #FD6E8A
+  primary-rgb: "12,12,12" #"128,179,255"
+  secondary-light: 242424 #FD6E8A
   secondary: 0c0c0c #FD6E8A
-  secondary-dark: 18231a #A2122F
+  secondary-dark: 0a0a0a #A2122F
   blog-text: 222
   link: 1a77bd
 
