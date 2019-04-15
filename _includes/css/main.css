@@ -6,8 +6,12 @@
 
 body {
     overflow-x: hidden;
-    overflow: scroll;
+    overflow: scroll!important;
+}
 
+.row {
+    margin-left: -10px!important;
+    margin-right: -10px!important;
 }
 
 p {
@@ -126,6 +130,7 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
+
     .navbar-fixed-top {
         padding: 25px 0;
         -webkit-transition: padding .3s;
