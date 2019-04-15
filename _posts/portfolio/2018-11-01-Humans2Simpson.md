@@ -2,7 +2,7 @@
 layout: default
 title: Human2Simpson, unpaired image to image traslation
 category: portfolio
-modal-id: 7
+modal-id: 2
 img: sim.png
 alt: Some samples of Humam 2 Simpson morphing
 client: 
