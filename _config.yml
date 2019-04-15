@@ -1,0 +1,114 @@
+# Site settings
+title: Francesco Moca
+email: francesco.moca@gmail.com
+url: http://francescomoca.ml
+description: "Full-Stack Developer. Blockchain enthusiast."
+meta_author: Francesco Moca
+
+about:
+  header: About
+  content:
+      left: I am currently completing my Computer Science master at the University of Bologna. I am particularly interested in the development of decentralized applications using peer to peer and blockchain technologies.
+      right: Also interested in machine learning and software development. I have experience developing Android and crossplatform mobile apps freelance.
+      bottom:
+  interests:
+    header: Interests as of Late
+    content:
+      left:
+        header: Now
+        list:
+          - item: React
+          - item: State Channels / Solidity
+          - item: Deep Learning
+      center:
+        header: Soon
+        list:
+          - item: React Native
+          - item: Vue
+          - item: Typescript
+      right:
+        header: Later (?)
+        list:
+          - item: Rust
+          - item: Go
+          - item: Haskell
+  button:
+    text: Download My Resume
+    href: /resume/cv_en.pdf
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname: https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: 
+
+# If you have Google Analytics account setup, enter your tracker ID, eg. A-12312312-1
+google_analytics_tracker_id: UA-138244755-1
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 101010 #80B3FF
+  primary-rgb: "255,0,0" #"128,179,255"
+  secondary-light: 58635a #FD6E8A
+  secondary: 38433a #FD6E8A
+  secondary-dark: 18231a #A2122F
+  blog-text: 222
+  link: 1a77bd
+
+# Blog settings
+blog:
+  labels:
+    modal-close: Close
+
+# Markdown/syntax highlighter settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Portfolio settings
+portfolio:
+  labels:
+    client: Client
+    project-date: Date
+    application: Application
+    languages: Languages
+    concepts: Concepts
+    tools: Tools
+    stack: Stack
+    modal-close: Close
+
+# Footer settings
+footer:
+  location-header: Location
+  location: Bologna, PG
+  copyright: 
+  social: My Other Whereabouts
+  new-thoughts: New Thoughts
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc. search them in main.css)
+social:
+  - title: github
+    tooltip: "Github"
+    url: https://github.com/tsuru-
+  - title: linkedin
+    tooltip: "Linkedin"
+    url: https://www.linkedin.com/in/francesco-moca-69001a121/
+
+
+# Credits content
+credits: '<a href="https://github.com/bill-c-martin/bill-c-martin.github.io">Based on Bill Martin's portfolio.</a>'
+
+# Build settings
+permalink: pretty
