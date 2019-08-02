@@ -2,7 +2,7 @@
 layout: default
 title: Film To See
 category: portfolio
-modal-id: 7
+modal-id: 8
 img: filmtosee.png
 alt: Screenshot of Film To See App
 client: 
@@ -16,7 +16,7 @@ languages:
 concepts:
 - Android Application
 - Material Design
-- NoSql Backend
+- NoSQL Backend
 tools:
 - Android Studio
 - SoapUI

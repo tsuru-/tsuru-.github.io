@@ -2,7 +2,7 @@
 layout: default
 title: Scalable Hashtag Recommender System
 category: portfolio
-modal-id: 3
+modal-id: 4
 img: scala.png
 alt: Cli options for SHRSS tool
 client: 
@@ -37,4 +37,4 @@ The model built was trained on real data taken from Instagram and for the cluste
 The project is currently being rewritten for an eventual public release as a service.
 
 ### References
-[Github repository.](https://github.com/Rhuax/Scalable-Hashtag-Recommender-System)
+[Github repository](https://github.com/Rhuax/Scalable-Hashtag-Recommender-System)

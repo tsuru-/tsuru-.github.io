@@ -108,7 +108,7 @@ social:
 
 
 # Credits content
-credits: "<a href='https://github.com/bill-c-martin/bill-c-martin.github.io'>Jekyll base template taken from Bill Martin.</a>"
+credits:  
 
 # Build settings
 permalink: pretty

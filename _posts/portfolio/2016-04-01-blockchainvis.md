@@ -2,7 +2,7 @@
 layout: default
 title: Blockchainvis
 category: portfolio
-modal-id: 6
+modal-id: 7
 img: bvis.jpg
 alt: Screenshot of BlockchainVis
 client: 
@@ -19,7 +19,7 @@ concepts:
 - AJAX
 - Data Visualization
 - Data Storage
-- NoSql Database
+- NoSQL Database
 - Graph Database
 - Bitcoin
 - Blockchain

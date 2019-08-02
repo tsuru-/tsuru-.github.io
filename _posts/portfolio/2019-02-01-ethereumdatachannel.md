@@ -2,7 +2,7 @@
 layout: default
 title: Ethereum Datachannel
 category: portfolio
-modal-id: 1
+modal-id: 2
 img: edc.png
 alt: Etheruem DataChannel POC home page
 client: 
@@ -12,8 +12,6 @@ languages:
 - Javascript
 - HTML5
 - CSS
-- JavaScript
-- XML
 concepts:
 - WebRTC
 - State Channels
