@@ -112,3 +112,6 @@ credits:
 
 # Build settings
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
