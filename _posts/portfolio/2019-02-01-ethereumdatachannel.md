@@ -2,7 +2,7 @@
 layout: default
 title: Ethereum Data Channel
 category: portfolio
-modal-id: 2
+modal-id: 4
 img: edc.png
 alt: Etheruem DataChannel POC home page
 client: 

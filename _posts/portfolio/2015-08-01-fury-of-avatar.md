@@ -2,7 +2,7 @@
 layout: default
 title: Fury of the Avatar deckbuilder
 category: portfolio
-modal-id: 9
+modal-id: 11
 img: foa3.png
 alt: Fury of the Avatar home page
 client: 

@@ -2,7 +2,7 @@
 layout: default
 title: Scalable Hashtag Recommender System
 category: portfolio
-modal-id: 4
+modal-id: 6
 img: scala.png
 alt: Cli options for SHRSS tool
 client: 
