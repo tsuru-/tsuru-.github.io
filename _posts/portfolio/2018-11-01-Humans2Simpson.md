@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Human2Simpson, unpaired image to image traslation
+title: Human2Simpson
 category: portfolio
 modal-id: 3
 img: sim.png
 alt: Some samples of Humam 2 Simpson morphing
 client: 
-application: Human2Simpson
+application: Unpaired image to image traslation based on GAN networks.
 project-date: August 2018 - November 2018
 languages:
 - Python
@@ -32,4 +32,4 @@ The project is based on [CycleGAN model](https://github.com/junyanz/CycleGAN) th
 
 The aim of the project was in to be able to transform an human face to a simpson version of it. Most of the time of the project was spent creating and perfecting the Simpson faces dataset and for the training tuning.
 
-Google Cloud was entirely used for the time and resource consuming training phase.
+For the training phase I used the Google Cloud Service.

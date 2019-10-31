@@ -1,31 +1,31 @@
 # Site settings
 title: "Francesco Moca"
-email: "francesco.moca@gmail.com"
+email: "me@francescomoca.ml"
 url: "https://francescomoca.ml"
 description: "Full-Stack Developer. Blockchain enthusiast."
 meta_author: "Francesco Moca"
 
 about:
-  header: About
+  header: About me
   content:
-      left: "I am currently completing my Computer Science master at the University of Bologna. I am particularly interested in the development of decentralized applications using peer to peer and blockchain technologies."
-      right: "Also interested in machine learning and software development. I have experience developing Android and crossplatform mobile apps as a freelance."
+      left: "I am particularly interested in the development of decentralized solutions using peer to peer and blockchain technologies."
+      right: "Also interested in machine learning and software development. I have experience developing crossplatform mobile apps and smart contracts as a freelancer."
       bottom: " "
   interests:
-    header: Recent interests
+    header: Recent Interest 
     content:
       left:
         header: Now
         list:
-          - item: React
-          - item: "State Channels / Solidity"
-          - item: Deep Learning
+          - item: React / React Native
+          - item: Solidity
+          - item: Python
       center:
         header: Soon
         list:
-          - item: React Native
-          - item: Vue
           - item: Typescript
+          - item: Vue
+          - item: Move (Libra Blockchain)
       right:
         header: "Later (?)"
         list:
@@ -92,7 +92,7 @@ portfolio:
 # Footer settings
 footer:
   location-header: Location
-  location: Bologna, PG
+  location: Perugia, PG
   copyright: Francesco Moca
   social: ""
   new-thoughts: Blog posts

@@ -6,7 +6,7 @@ modal-id: 7
 img: bvis.jpg
 alt: Screenshot of BlockchainVis
 client: 
-application: BlockchainVis
+application: Visualisation Tool for Bitcoin transactions.
 project-date: February 2016 - April 2016
 languages:
 - PHP
@@ -46,4 +46,4 @@ The final result was a visual analysis tool focused on forensics transaction ana
 
 ### References
 
-Here you can download my [thesis](tesi.pdf) and my [slides](https://www.slideshare.net/Franz931/blockchainvis-backend) (both in Italian), while my bachelor supervisor later wrote an [article](https://www.researchgate.net/publication/319046057_Go_with_the_-Bitcoin-_Flow_with_Visual_Analytics) also describing the architecture of the tool I started developing during my thesis.
+Here you can download my [thesis](files/tesi_triennale.pdf) and my [slides](https://www.slideshare.net/Franz931/blockchainvis-backend) (both in Italian), while my bachelor supervisor later wrote an [article](https://www.researchgate.net/publication/319046057_Go_with_the_-Bitcoin-_Flow_with_Visual_Analytics) in English describing the architecture of the tool I started developing.

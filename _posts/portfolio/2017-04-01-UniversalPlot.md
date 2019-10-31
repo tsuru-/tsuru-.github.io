@@ -6,7 +6,7 @@ modal-id: 5
 img: math.png
 alt: Screenshot of Wolfram Mathematica
 client: 
-application: UniversalPlot, Mathematica Sonifier
+application: Function Sonifier based on Wolfram Mathematica 
 project-date: May 2017 - June 2017
 languages:
 - Wolfram Mathematica

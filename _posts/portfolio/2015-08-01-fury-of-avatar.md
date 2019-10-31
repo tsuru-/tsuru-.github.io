@@ -6,8 +6,8 @@ modal-id: 9
 img: foa3.png
 alt: Fury of the Avatar home page
 client: 
-application: Fury of the Avatar deckbuilder
-project-date: summer 2015
+application: Deckbuilder for custom card game.
+project-date: Summer 2015
 languages:
 - PHP
 - SQL

@@ -6,7 +6,7 @@ modal-id: 8
 img: filmtosee.png
 alt: Screenshot of Film To See App
 client: 
-application: Film To See
+application: Mobile App for Film Watchers
 project-date: February 2016
 languages:
 - PHP
@@ -25,6 +25,7 @@ stack:
 - Apache
 - PHP
 - OrientDB
+- OMDb API
 ---
 
 ### Project Description
@@ -33,4 +34,4 @@ Android app created together with Dan Rusnac for a mobile programming university
 
 The purpose of the application is to help groups of friends choose films to watch together.
 
-The app allows the creation of user groups within which you can add, vote, comment on films.
+The app allows the creation of  groups where you can add, vote, comment on films.

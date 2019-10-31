@@ -6,8 +6,8 @@ modal-id: 1
 img: dSign.png
 alt: dSignThis! home page
 client: 
-application: dSignThis!
-project-date: Julu 2019 - Ongoing
+application: Decentralized petition solution based on smart contracts.
+project-date: July 2019 - Ongoing
 languages:
 - Javascript
 - HTML5
@@ -23,11 +23,12 @@ tools:
 - Metamask
 - Truffle
 - Ganache-Cli
+- Web3.js
 stack:
 - Linux
 - NodeJs
 - IPFS
-- Ethereum testnet
+- Ethereum Ropsten
 ---
 
 ### Project Description
