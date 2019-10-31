@@ -32,4 +32,4 @@ It can also be used to provide a textual description of the plot of a function.
 
 Both these features can be useful for blind people to improve learning mathematics.
 
-The package is a wrapper of the [Math Description Engine](https://github.com/benetech/Inactive-Math-Description-Engine), a Java library developed by Nasa for the MathTrax project.
+The package is a wrapper of the [Math Description Engine](https://github.com/benetech/Inactive-Math-Description-Engine){:target="_blank"}, a Java library developed by Nasa for the MathTrax project.

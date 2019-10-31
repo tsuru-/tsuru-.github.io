@@ -46,4 +46,4 @@ The final result was a visual analysis tool focused on forensics transaction ana
 
 ### References
 
-Here you can download my [thesis](files/tesi_triennale.pdf) and my [slides](https://www.slideshare.net/Franz931/blockchainvis-backend) (both in Italian), while my bachelor supervisor later wrote an [article](https://www.researchgate.net/publication/319046057_Go_with_the_-Bitcoin-_Flow_with_Visual_Analytics) in English describing the architecture of the tool I started developing.
+Here you can download my [thesis](files/tesi_triennale.pdf){:target="_blank"} and my [slides](https://www.slideshare.net/Franz931/blockchainvis-backend){:target="_blank"} (both in Italian), while my bachelor supervisor later wrote an [article](https://www.researchgate.net/publication/319046057_Go_with_the_-Bitcoin-_Flow_with_Visual_Analytics){:target="_blank"} in English describing the architecture of the tool I started developing.

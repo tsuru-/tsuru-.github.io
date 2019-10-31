@@ -25,7 +25,7 @@ about:
         list:
           - item: Typescript
           - item: Vue
-          - item: Move (Libra Blockchain)
+          - item: Move (Libra)
       right:
         header: "Later (?)"
         list:
@@ -92,7 +92,7 @@ portfolio:
 # Footer settings
 footer:
   location-header: Location
-  location: Perugia, PG
+  location: Perugia, Italy
   copyright: Francesco Moca
   social: ""
   new-thoughts: Blog posts

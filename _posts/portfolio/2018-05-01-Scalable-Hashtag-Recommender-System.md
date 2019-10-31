@@ -37,4 +37,4 @@ The model built was trained on real data taken from Instagram, for the clusterin
 The project is currently being rewritten for an eventual public release as a service.
 
 ### References
-[Github repository](https://github.com/Rhuax/Scalable-Hashtag-Recommender-System)
+[Github repository](https://github.com/Rhuax/Scalable-Hashtag-Recommender-System){:target="_blank"}

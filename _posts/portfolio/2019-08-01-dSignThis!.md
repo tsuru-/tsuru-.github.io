@@ -33,7 +33,7 @@ stack:
 
 ### Project Description
 
-Decentralized petition website, made as a final project for the [Blockchain Developer Bootcamp Spring 2019](https://consensys.net/academy/bootcamp/) organized by Consensys.
+Decentralized petition website, made as a final project for the [Blockchain Developer Bootcamp Spring 2019](https://consensys.net/academy/bootcamp/){:target="_blank"} organized by Consensys.
 
 In this dApp an user can create a petition without the need of third party websites like change.org.
 
@@ -41,4 +41,4 @@ Many information about the design of the dApp can be found in the repository lin
 
 ## References
 
-[Github Repository](https://github.com/tsuru-/ConsensysBootcamp-FinalProject)
+[Github Repository](https://github.com/tsuru-/ConsensysBootcamp-FinalProject){:target="_blank"}
