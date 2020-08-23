@@ -17,20 +17,20 @@ about:
       left:
         header: Now
         list:
-          - item: React / React Native
-          - item: Solidity
-          - item: Python
+          - item: Keycloak
+          - item: Kubernetes
+          - item: Go
       center:
         header: Soon
         list:
           - item: Typescript
-          - item: Vue
-          - item: Move (Libra)
+          - item: Self Sovereign Identity
+          - item: xDai / Matic Network
       right:
         header: "Later (?)"
         list:
           - item: Rust
-          - item: Go
+          - item: Kotlin
           - item: Haskell
   button:
     text: Download My Resume
@@ -92,7 +92,7 @@ portfolio:
 # Footer settings
 footer:
   location-header: Location
-  location: Perugia, Italy
+  location: Milan, Italy
   copyright: Francesco Moca
   social: ""
   new-thoughts: Blog posts
@@ -101,7 +101,7 @@ footer:
 social:
   - title: github
     tooltip: "Github"
-    url: "https://github.com/tsuru-"
+    url: "https://github.com/franzmoca"
   - title: linkedin
     tooltip: "Linkedin"
     url: "https://www.linkedin.com/in/francesco-moca-69001a121/"
